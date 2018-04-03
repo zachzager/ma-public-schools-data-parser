@@ -12,8 +12,9 @@ recruiters easier. This included data on Graduation Plans, SAT scores,
 disciplinary actions, and basic contact and location information.
 
 View the Tableau dashboard I created using this dataset here:
-[Coming soon]
+https://public.tableau.com/profile/zach7909#!/vizhome/PublicSchoolRecruitingMadeEasy-Massachusetts/MassachusettsPublicSchools
 
 Resources used:
 - Pandas library for Python
+- xlrd library for Python
 - Boston public school data, http://profiles.doe.mass.edu/
